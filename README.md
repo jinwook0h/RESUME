@@ -1,46 +1,30 @@
 # 이력서
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
+
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
+![프로필이미지](images/profile_small.jpg)
 - 이름: 오진욱
 - 군필여부: 공군 병장 만기 전역
 - 취미: 일렉기타, 피아노, 복싱, 여행
 - Email: jinokoh@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
+- GitHub: [github.com/jinwook0h](https://github.com/jinwook0h)
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+공학도로서 최대한의 역량을 발휘하는 걸 우선으로 하고 있습니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 
 ## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
 
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
 
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
+
 
 ## 대외활동
-- [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
-- 네이버 부스트캠프 코드 리뷰어(2021)
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
+
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 광운대학교 전기공학과 졸업(2018 ~ 2023)
 
 ## 사용 기술
 ### Android
@@ -78,8 +62,6 @@
 
 ## 프로젝트 이력
 
-
-<img src='./images/toonies.png' width="80" />
 
 ### 투니스
 - 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
@@ -296,5 +278,5 @@ ps2. 가끔 사석에서 노잼개그하는데, 그건 견뎌야되요(모든건
 ----
 
 여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
+부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jinokoh@naver.com으로 연락주세요.<br/>
 감사합니다.
